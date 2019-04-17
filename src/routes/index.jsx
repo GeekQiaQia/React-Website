@@ -9,4 +9,5 @@ var indexRoutes=[
   {path:'/avatarUpload',name:'avatarUpload',component:avatarUpload},
   {path:'/',name:'HomePage',component:HomePage}
 ];
+
 export default indexRoutes;
